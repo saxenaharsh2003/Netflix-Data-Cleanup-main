@@ -5,9 +5,8 @@ Contents:
 
 netflix_titles.csv – Original dataset (downloaded from Kaggle)
 netflix_cleaned.csv – Cleaned dataset
-data_cleaning_netflix.ipynb – Jupyter notebook with all cleaning steps
 README.md – Project overview and instructions
-
+<br>
 Key Cleaning Steps :
 
 Filled missing values in key columns (director, cast, country, date_added)
